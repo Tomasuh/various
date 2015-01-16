@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-#My own pattern_create && pattern_offset
+#A decent made pattern_create && pattern_offset
+#by Tomasuh @ tomasuh.github.io
 import sys,re, argparse
-
+print "yo"
 fn =  sys.argv[0]
 
 parser = argparse.ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter, description='A working pattern_create and pattern_offset script!', 
