@@ -11,6 +11,7 @@ parser = argparse.ArgumentParser(formatter_class=argparse.RawDescriptionHelpForm
 	+ fn + ' -pc 20 -bc AB, will generate a pattern without A and B\n'
 	+ fn + ' -pc 20 -pc 20 -po 0x5AAa -hl will search for the offset to the key that\'s in little endian format, -hb for big endian.\n'
 )
+
 parser.add_argument('-pc', dest='pattern_create', help="Generate pattern of given size", type=int, required = True)
 parser.add_argument('-s1', '--set1', dest='set1', help="set1 characters", default = "ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 parser.add_argument('-s2', '--set2', dest='set2', help="set1 characters", default = "abcdefghijklmnopqrstuvwxyz")
