@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #A decent made pattern_create && pattern_offset
-#by Tomasuh @ tomasuh.github.io
+#By Tomasuh @ tomasuh.github.io
 import sys, re, argparse
 fn =  sys.argv[0]
 
