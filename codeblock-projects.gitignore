@@ -1,0 +1,6 @@
+*.cbp
+.gitignore
+*.depend
+/obj/
+/bin/
+
