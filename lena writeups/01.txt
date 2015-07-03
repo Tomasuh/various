@@ -1,0 +1,12 @@
+Pseudocode:
+open("Keyfile.dat)
+read 70 bytes
+if read fail: goto badCall
+if numberOfReadBytes < 16: goto badCall
+for eachCharacter:
+	if char=='G':
+		esi++
+	else:
+		ebx++;
+if esi < 8: goto badCall
+else: Success!
