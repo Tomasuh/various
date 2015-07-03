@@ -1,6 +1,3 @@
-Lena's reverse engineering writeups
-
-
 ### Lena's reverse engineering writeups
 ---
 Solutions and patches for the tutorials, some are explained other not.
