@@ -1,7 +1,7 @@
 # Simple Export Memory plugin for Binary Ninja
 
 Simple Export Memory plugin for Binary Ninja designed to easily export data 
-to file that are wihtin the same memory segment.
+to file that are within the same memory segment.
 
 ## Usage:
 
