@@ -5,11 +5,11 @@ to file that are wihtin the same memory segment.
 
 ## Usage:
 
-* Right-click on start address and press *Set as start address for export memory*
+* Right-click on start address and press **Set as start address for export memory**
 
-* Right-click on end address and press *Set as end address for export memory*
+* Right-click on end address and press **Set as end address for export memory**
 
-* Right-click and press *Export memory* and select destination to write file to
+* Right-click and press **Export memory** and select destination file to write to
 
 ## Required Dependencies
 
