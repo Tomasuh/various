@@ -7,6 +7,7 @@ def export(bv):
         end = bv.query_metadata('end_address')
     except KeyError:
         print "Start or end address not set"
+        return
 
     data = bv.read(start, end - start + 1)
 
