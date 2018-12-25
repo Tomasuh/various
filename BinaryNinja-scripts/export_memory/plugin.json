@@ -1,0 +1,17 @@
+{
+  "plugin": {
+    "name": "Export Memory",
+    "type": [ "core", "ui", "architecture", "binaryview" ],
+    "api": "python2",
+    "description": "Export Memory",
+    "longdescription": "Export memory specified memory range inside of virtual segment",
+    "dependencies": {
+    },
+    "version": "1.0 alpha",
+    "author": "Tomasuh",
+    "minimumBinaryNinjaVersion": {
+      "dev": "1.0.dev-576",
+      "release": "9999"
+    }
+  }
+}
